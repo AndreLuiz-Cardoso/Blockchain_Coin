@@ -183,8 +183,4 @@ jobs:
 ## 📄 License
 This project is licensed under the **MIT License**. Feel free to use and modify it.
 
-## 📞 Contact
-- 📧 Email: youremail@example.com
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
 
